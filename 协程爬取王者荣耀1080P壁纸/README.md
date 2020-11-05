@@ -1,7 +1,7 @@
 <!--
  * @Date         : 2020-11-05 18:32:28
  * @LastEditors  : Pineapple
- * @LastEditTime : 2020-11-05 18:39:06
+ * @LastEditTime : 2020-11-05 18:40:05
  * @FilePath     : /PythonScript/协程爬取王者荣耀1080P壁纸/README.md
  * @Blog         : https://blog.csdn.net/pineapple_C
  * @Github       : https://github.com/Pineapple666
@@ -29,4 +29,4 @@
 
 ## 博客教程
 
-要求那么多？等我忙完了再跟新博客！
+要求那么多？等我忙完了再更新博客！
