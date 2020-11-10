@@ -7,8 +7,6 @@
  * @Github       : https://github.com/Pineapple666
 -->
 
-# PythonScript
-
 # 一些有趣的Python脚本
 
 ## 安装环境
