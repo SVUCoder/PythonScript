@@ -16,6 +16,7 @@ def send_msg(udp_socket, dest_addr):
 
 
 def recv_msg(udp_socket):
+    """接收数据"""
     msg = udp_socket.recvfrom(1024)
     print(msg[0].decode('utf-8')+str(msg[1]))
 
