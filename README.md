@@ -12,5 +12,5 @@
 ## 安装环境
 
 ``` bash
-pip3 install -U `cat requirements.txt`
+pip3 install -r requirements.txt
 ```
